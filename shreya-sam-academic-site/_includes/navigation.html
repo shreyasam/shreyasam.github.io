@@ -1,0 +1,23 @@
+<header class="masthead">
+  <nav class="site-nav container" aria-label="Primary navigation">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.data.profile.name }}</a>
+
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-links">
+      <span class="sr-only">Toggle navigation</span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </button>
+
+    <ul class="site-nav__links" id="primary-links">
+      {% for item in site.data.navigation %}
+        {% assign current = false %}
+        {% if page.url == item.url %}{% assign current = true %}{% endif %}
+        <li>
+          <a href="{{ item.url | relative_url }}"{% if current %} class="is-active" aria-current="page"{% endif %}>{{ item.label }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
+
