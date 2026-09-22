@@ -296,10 +296,8 @@ img {
 }
 
 .content-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1.65fr) minmax(280px, 0.75fr);
-  gap: clamp(3rem, 7vw, 6rem);
-  align-items: start;
+  display: block;
+  width: 100%;
 }
 
 .prose h1,
