@@ -9,7 +9,7 @@ cv_path: "/assets/cv/Shreya_Sam_CV.pdf"
 
 # To add a portrait later, place it in assets/images/ and enter its path below.
 # Example: photo: "/assets/images/profile.jpg"
-photo: ""
+photo: ""/assets/profile.photo/profile.photo.jpg""
 
 research_interests:
   - "Marketing strategy"
