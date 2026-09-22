@@ -13,7 +13,7 @@ permalink: /
 
 <p>Before joining SMU, she worked as a Research Assistant at the Indian Institute of Management Ahmedabad. She holds an M.Sc. in Applied Economics and a B.Sc. in Economics from Presidency University, Kolkata.</p>
 </article>
-</section
+</section>
 
 
 <section class="info-card info-card--accent">
