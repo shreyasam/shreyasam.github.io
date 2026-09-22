@@ -18,5 +18,5 @@ permalink: /
 
 <section class="info-card info-card--accent">
 <h2>Contact</h2>
-<p>shreyasam03 [at] gmail [dot] com</p>
+<p>**Email:** shreyasam03 [at] gmail [dot] com</p>
 </section>
