@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Curriculum Vitae
-eyebrow: Academic record
 intro: "View the CV below or download a copy."
 description: "Curriculum vitae of Shreya Sam."
 permalink: /cv/
