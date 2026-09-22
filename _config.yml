@@ -1,0 +1,23 @@
+title: "Shreya Sam"
+tagline: "PhD Student in Business (Marketing)"
+description: "Academic website of Shreya Sam, PhD student in Business (Marketing) at Singapore Management University."
+lang: "en"
+timezone: "Asia/Singapore"
+
+# Set these before publishing. For a personal GitHub Pages repository, baseurl stays blank.
+# Example: url: "https://yourusername.github.io"
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
