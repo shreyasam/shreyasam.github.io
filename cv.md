@@ -14,5 +14,4 @@ permalink: /cv/
 
 <iframe class="cv-frame" src="{{ site.data.profile.cv_path | relative_url }}" title="Curriculum Vitae of Shreya Sam"></iframe>
 
-<p class="cv-fallback">If the embedded viewer does not load, <a href="{{ site.data.profile.cv_path | relative_url }}">open the PDF directly</a>.</p>
 
